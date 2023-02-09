@@ -7,6 +7,69 @@ One of the things we built into Prezo is a drag and drop component for reorderin
 This is what it will look like when ready [Demo video] (https://www.loom.com/share/be346974201f450f9dc7e62480ce83e6)
 
 ## Requirements
+This is the slides array
+
+```
+slides = [
+  {
+    id: '1',
+    title: 'Slide 1',
+  },
+  {
+    id: '1',
+    title: 'Slide 1',
+  },
+  {
+    id: '2',
+    title: 'Slide 2',
+  },
+  {
+    id: '3',
+    title: 'Slide 3',
+  },
+  {
+    id: '4',
+    title: 'Slide 4',
+  },
+  {
+    id: '5',
+    title: 'Slide 5',
+  },
+  {
+    id: '6',
+    title: 'Slide 6',
+  },
+  {
+    id: '7',
+    title: 'Slide 7',
+  },
+  {
+    id: '8',
+    title: 'Slide 8',
+  },
+  {
+    id: '9',
+    title: 'Slide 9',
+  },
+  {
+    id: '10',
+    title: 'Slide 10',
+  },
+]
+```
+
+Other specs
+
+```
+slide component height = 130px
+container that holds all slides -> height = 700px
+
+container has overflow: scroll to be able to scroll and see all slides
+```
+
+If you want a quick reference for css, look at this [repo](https://github.com/prezohq/prezo-assignment)
+
+### Tasks
 - get the drag and drop working
   - add a temporary marker above or below a slide as you drag - the marker denotes where the new slide will be place - check the video above to see what it will look like - please reach out if you have questions
 
