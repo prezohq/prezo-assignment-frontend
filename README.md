@@ -39,8 +39,3 @@ Do not use a dragging library. Please use the [HTML Drag and drop API](https://d
 
 - Share the repo, the video and the hosted app with us
 
-Resources
-Drag and Drop API
-
-Vue 3 Docs
-
