@@ -16,10 +16,6 @@ slides = [
     title: 'Slide 1',
   },
   {
-    id: '1',
-    title: 'Slide 1',
-  },
-  {
     id: '2',
     title: 'Slide 2',
   },
