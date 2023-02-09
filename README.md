@@ -58,7 +58,7 @@ Other specs
 
 ```
 slide component height = 130px
-container that holds all slides -> height = 700px
+container that holds all slides -> height = 80vh
 
 container has overflow: scroll to be able to scroll and see all slides
 ```
@@ -67,9 +67,9 @@ If you want a quick reference for css, look at this [repo](https://github.com/pr
 
 ### Tasks
 - get the drag and drop working
-  - add a temporary marker above or below a slide as you drag - the marker denotes where the new slide will be place - check the video above to see what it will look like - please reach out if you have questions
+  - add a temporary marker above or below a slide as you drag - the marker denotes where the new slide will be placed - check the video above to see what it will look like - please reach out if you have questions
 
-- be able to scroll inside the slide container while dragging slides - this is important - we could have many slides - and many need to scroll when reordering
+- be able to scroll inside the slide container while dragging slides - this is important - we could have many slides - and may need to scroll when reordering
 
 - make sure the dropped slide is always visible in the viewport
 
