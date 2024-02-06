@@ -73,18 +73,23 @@ If you want a quick reference for css, look at this [repo](https://github.com/pr
 
 - make sure the dropped slide is always visible in the viewport
 
-- allow dragging multiple slides at once (advanced - chance to show off)
+- write clean, modular code that can extended in future
 
-- any ux flair you want to add (ideal - chance to show off)
+### advanced
+These are not strictly necessary. But if you are deeply curious about building stuff, you can take on one of these tasks.
 
 - add undo/redo (advanced - chance to show off)
 
+- any ux flair you want to add (eg some animation when releasing the slide - chance to show off)
+
+- allow dragging multiple slides at once (advanced - chance to show off)
+  
 - an implementation that you think is even better (optional)
 
 
 We use Vue 3 and Typescript. But you can use whatever you are comfortable with. (Vue/React/something else)
 
-Do not use a dragging library. Please use the [HTML Drag and drop API](https://developer.mozilla.org/en-US/docs/Web/API/HTML_Drag_and_Drop_API)
+Do not use a dragging library. Please use the [HTML Drag and drop API](https://developer.mozilla.org/en-US/docs/Web/API/HTML_Drag_and_Drop_API) OR you can implement it using mousedown/mouseup/mousemove event handlers.
 
 
 ## Deliverables
