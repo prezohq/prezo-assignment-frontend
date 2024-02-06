@@ -75,14 +75,14 @@ If you want a quick reference for css, look at this [repo](https://github.com/pr
 
 - write clean, modular code that can extended in future
 
-### advanced
+### Advanced
 These are not strictly necessary. But if you are deeply curious about building stuff, you can take on one of these tasks.
 
-- add undo/redo (advanced - chance to show off)
+- add undo/redo
 
-- any ux flair you want to add (eg some animation when releasing the slide - chance to show off)
+- any ux flair you want to add (eg some animation when releasing the slide)
 
-- allow dragging multiple slides at once (advanced - chance to show off)
+- allow dragging multiple slides at once 
   
 - an implementation that you think is even better (optional)
 
