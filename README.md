@@ -58,9 +58,9 @@ Other specs
 
 ```
 slide component height = 130px
-container that holds all slides -> height = 80vh
-
-container has overflow: scroll to be able to scroll and see all slides
+assume all slides have the same height - and aspect ratio of 16:9
+container that holds all slides - max height 80vh, center aligned vertically
+container has overflow enabled to be able to scroll and see all slides
 ```
 
 If you want a quick reference for css, look at this [repo](https://github.com/prezohq/prezo-assignment)
