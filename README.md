@@ -59,11 +59,12 @@ Other specs
 ```
 slide component height = 130px
 assume all slides have the same height - and aspect ratio of 16:9
+distance between slides - 16px
+distance between slides and container - 16px
 container that holds all slides - max height 80vh, center aligned vertically
 container has overflow enabled to be able to scroll and see all slides
 ```
-
-If you want a quick reference for css, look at this [repo](https://github.com/prezohq/prezo-assignment)
+If you want a quick reference for basic vue 3 skeleton for this, look at this [repo](https://github.com/prezohq/prezo-assignment)
 
 ### Tasks
 - get the drag and drop working
