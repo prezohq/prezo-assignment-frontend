@@ -4,7 +4,7 @@ Hi there, thanks for your interest in [Prezo](https://prezo.ai). We are excited 
 
 One of the things we built into Prezo is a drag and drop component for reordering slides. Your mission, should you choose to accept it, is to create a working version of such a component.
 
-This is what it will look like when ready [Demo video] (https://www.loom.com/share/be346974201f450f9dc7e62480ce83e6)
+This is what it will look like when ready [Demo video](https://www.loom.com/share/be346974201f450f9dc7e62480ce83e6)
 
 ## Requirements
 This is the slides array
@@ -73,14 +73,14 @@ If you want a quick reference for css, look at this [repo](https://github.com/pr
 
 - make sure the dropped slide is always visible in the viewport
 
-- write clean, modular code that can extended in future
+- write clean, modular code that can be extended
 
 ### Advanced
 These are not strictly necessary. But if you are deeply curious about building stuff, you can take on one of these tasks.
 
 - add undo/redo
 
-- any ux flair you want to add (eg some animation when releasing the slide)
+- any ux flair you want to add (eg. some animation when releasing the slide)
 
 - allow dragging multiple slides at once 
   
@@ -89,7 +89,7 @@ These are not strictly necessary. But if you are deeply curious about building s
 
 We use Vue 3 and Typescript. But you can use whatever you are comfortable with. (Vue/React/something else)
 
-Do not use a dragging library. Please use the [HTML Drag and drop API](https://developer.mozilla.org/en-US/docs/Web/API/HTML_Drag_and_Drop_API) OR you can implement it using mousedown/mouseup/mousemove event handlers.
+Please do not use a higher level library for drag and drop. You can use the [HTML Drag and drop API](https://developer.mozilla.org/en-US/docs/Web/API/HTML_Drag_and_Drop_API) OR you can implement it using mousedown/mouseup/mousemove event handlers.
 
 
 ## Deliverables
